@@ -18,21 +18,19 @@ TextRank is an algorithm based on PageRank, which often used in keyword extracti
 
 ###### PageRank
 
-PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. The underlying assumption is that more important websites are likely to receive more links from other websites.
-
 PageRank is an algorithm used to calculate the weight for web pages. We can take all web pages as a big directed graph. In the graph, a node is a web page and the link from  web page A to web page B is represented as a directed edge from A to B. The underlying assumption is that more important websites are likely to receive more links from other websites.
 
 Algorithm - 
 
 At t=0, an initial probability distribution is assumed 
 
-![](/home/rahul/Workspace/Github/text-summarization/img/pagerank1.svg)
+![](img/pagerank1.svg)
 
 where N is the total number of pages.
 
 At each time step,
 
-![](/home/rahul/Workspace/Github/text-summarization/img/pagerank2.svg)
+![](img/pagerank2.svg)
 
 where d is the damping factor (usually 0.85), <img src="https://latex.codecogs.com/gif.latex?M(p_i)"/> is the set of pages that link to pi and <img src="https://latex.codecogs.com/gif.latex?L(p_j)"/> is the number of outbound links on page<img src="https://latex.codecogs.com/gif.latex?p_j"/>.
 
@@ -44,7 +42,7 @@ Iterate until convergence - page rank does not seem to change.
 
 In the matrix notation -
 
-![](/home/rahul/Workspace/Github/text-summarization/img/pagerank4.png)
+![](img/pagerank4.png)
 
 
 
