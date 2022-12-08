@@ -25,6 +25,7 @@ Algorithm -
 At t=0, an initial probability distribution is assumed 
 
 ![](img/pagerank1.svg)
+<img src="img/pagerank1.svg">
 
 where N is the total number of pages.
 
