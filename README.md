@@ -46,7 +46,7 @@ Iterate until convergence - page rank does not seem to change.
 
 In the matrix notation -
 
-![](https://github.com/rahulkg31/text-summarization/blob/main/pagerank4.jpg)
+![](https://raw.github.com/rahulkg31/text-summarization/main/pagerank4.jpg)
 
 
 
