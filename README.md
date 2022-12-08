@@ -26,7 +26,9 @@ At t=0, an initial probability distribution is assumed
 
 ![image](img/pagerank1.svg)
 
-<p><img src="img/pagerank1.svg"></p>
+<p>
+<img src="img/pagerank1.svg">
+</p>
 
 where N is the total number of pages.
 
