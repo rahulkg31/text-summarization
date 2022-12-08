@@ -24,11 +24,9 @@ Algorithm -
 
 At t=0, an initial probability distribution is assumed 
 
-![image](img/pagerank1.svg)
+![image](https://raw.githubusercontent.com/rahulkg31/text-summarization/main/img/pagerank1.svg)
 
-<p>
-<img src="img/pagerank1.svg">
-</p>
+
 
 where N is the total number of pages.
 
