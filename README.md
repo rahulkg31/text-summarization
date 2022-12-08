@@ -26,7 +26,7 @@ At t=0, an initial probability distribution is assumed
 
 ![](https://raw.githubusercontent.com/rahulkg31/text-summarization/main/img/pagerank1.svg)
 
-<img src="img/pagerank2.svg" width="800" />
+<img src="img/pagerank4.png" width="800" />
 
 where N is the total number of pages.
 
