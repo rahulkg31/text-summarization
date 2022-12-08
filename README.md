@@ -44,7 +44,7 @@ Iterate until convergence - page rank does not seem to change.
 
 In the matrix notation -
 
-![](img/pagerank4.jpg)
+![](pagerank4.jpg)
 
 
 
