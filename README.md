@@ -24,7 +24,7 @@ Algorithm -
 
 At t=0, an initial probability distribution is assumed 
 
-![](https://raw.githu.com/rahulkg31/text-summarization/main/img/pagerank1.svg)
+![](https://raw.github.com/rahulkg31/text-summarization/main/img/pagerank1.svg)
 
 <div>
 <img src="pagerank4.jpg"/>
@@ -34,7 +34,7 @@ where N is the total number of pages.
 
 At each time step,
 
-![](img/pagerank4.jpg?raw=ture)
+![](pagerank4.jpg?raw=ture)
 
 where d is the damping factor (usually 0.85), <img src="https://latex.codecogs.com/gif.latex?M(p_i)"/> is the set of pages that link to pi and <img src="https://latex.codecogs.com/gif.latex?L(p_j)"/> is the number of outbound links on page<img src="https://latex.codecogs.com/gif.latex?p_j"/>.
 
